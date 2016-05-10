@@ -19,7 +19,7 @@ This toolkit provides scripts which retrieve additional data from the Prime Infr
 # Requirements
 You need to install the following software to run this toolkit:
 * [Python3](https://www.python.org/)
-* Python [requests]http://docs.python-requests.org/en/master/) library
+* Python [requests](http://docs.python-requests.org/en/master/) library
 
 # PrimeAPI
 This wrapper class provides easy access to the Prime Infrastructure API. Currently, only GET requests are supported. Here is a short example about how to instantiate the wrapper and to send requests to the REST API:
